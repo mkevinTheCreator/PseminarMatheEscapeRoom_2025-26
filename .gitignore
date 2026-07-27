@@ -1,0 +1,27 @@
+/.idea
+/venv
+/dist
+/build
+/__pycache__
+/System Volume Information
+test.py
+test2.py
+test3.py
+test4.py
+earthTravelVideo.py
+gui_pre.py
+main.spec
+main_release.spec
+merge_main.py
+main_noPlugs.py
+receiver.py
+ReceiverWidget.py
+sender.py
+speak.py
+time_puzzle_input.py
+start.py
+Qt6Core.dll
+Qt6Gui.dll
+Qt6Multimedia.dll
+Qt6Network.dll
+/zigpy_db
